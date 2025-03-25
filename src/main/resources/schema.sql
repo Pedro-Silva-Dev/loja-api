@@ -79,7 +79,7 @@ create table if not exists produtos_promocoes
     promocao_id   int not null,
     constraint produtos_promocoes_ibfk_1 foreign key (produto_id) references produtos (id),
     constraint produtos_promocoes_ibfk_2 foreign key (promocao_id) references promocoes (id)
-);
+);cle
 
 
 
