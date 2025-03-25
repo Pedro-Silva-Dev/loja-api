@@ -1,1 +1,16 @@
+/home/pedro/Solipy/loja-api/src/main/java/br/com/solipy/loja/models/dtos/UserRequestDto.java
+/home/pedro/Solipy/loja-api/src/main/java/br/com/solipy/loja/configs/HashidService.java
+/home/pedro/Solipy/loja-api/src/main/java/br/com/solipy/loja/models/dtos/RegisterUserDto.java
+/home/pedro/Solipy/loja-api/src/main/java/br/com/solipy/loja/models/Role.java
+/home/pedro/Solipy/loja-api/src/main/java/br/com/solipy/loja/services/AuthService.java
+/home/pedro/Solipy/loja-api/src/main/java/br/com/solipy/loja/repositories/UserRepository.java
+/home/pedro/Solipy/loja-api/src/main/java/br/com/solipy/loja/configs/security/AuthProvider.java
 /home/pedro/Solipy/loja-api/src/main/java/br/com/solipy/loja/LojaApplication.java
+/home/pedro/Solipy/loja-api/src/main/java/br/com/solipy/loja/models/dtos/AuthRequestDto.java
+/home/pedro/Solipy/loja-api/src/main/java/br/com/solipy/loja/configs/security/SecurityConfiguration.java
+/home/pedro/Solipy/loja-api/src/main/java/br/com/solipy/loja/models/User.java
+/home/pedro/Solipy/loja-api/src/main/java/br/com/solipy/loja/controllers/AuthController.java
+/home/pedro/Solipy/loja-api/src/main/java/br/com/solipy/loja/configs/security/JwtAuthenticationFilter.java
+/home/pedro/Solipy/loja-api/src/main/java/br/com/solipy/loja/models/dtos/AuthResponseDto.java
+/home/pedro/Solipy/loja-api/src/main/java/br/com/solipy/loja/repositories/RoleRepository.java
+/home/pedro/Solipy/loja-api/src/main/java/br/com/solipy/loja/configs/security/JwtService.java

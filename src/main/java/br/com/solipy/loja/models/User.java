@@ -59,9 +59,6 @@ public class User implements UserDetails {
     @Column(name="token")
     private String token;
 
-    @Column(name="empresa_id")
-    private Long companyId;
-
     @CreatedDate
     @Column(name = "dhc")
     private LocalDateTime dhc;
